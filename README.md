@@ -6,6 +6,8 @@ A computer vision project for the automated identification of microplastic parti
 
 The dataset contains **1,154 augmented images**. Image augmentation was applied to increase data diversity and improve the model's ability to recognize microplastic particles under varying visual conditions.
 
+https://app.roboflow.com/sharkya-stem-school/mps_detection-u8ufn/1
+
 **Model:**
 
 **YOLOv8** was employed as the object detection architecture to locate microplastic particles within input images using bounding-box predictions.
